@@ -1,0 +1,94 @@
+
+
+body{
+	background-image:url("https://image.freepik.com/free-photo/white-paper-background_1154-683.jpg");
+	background-attachment: fixed;
+	background-size: 70%;
+	position: relative;
+}
+
+
+
+
+/* This is for the about me page specifically the About me box */
+
+img{
+	width:100% ;
+	height:100%;
+}
+
+#abo {
+	margin: 2%;
+	padding: 5px;
+	background-color:;
+	color:#00b38f;
+}
+
+#aboutDetail{
+	font-weight: bold;
+}
+
+.blue{
+	background-color:white;
+	border:1px solid darkgray;
+	border-radius: 5px;
+}
+
+/* This is the social media thing */
+
+
+.white{
+	background-color: white;
+	border-radius: 5px;
+	padding:5px;
+	border:1px solid gray;
+	color:#00b38f;
+
+}
+
+
+/*
+Social media icons
+*/
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 32%;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+
+/* contact page */
+
+.standard {
+	background-color:white;
+	padding:10px;
+	border: 2px solid lightgray;
+	border-radius:5px;
+}
+
